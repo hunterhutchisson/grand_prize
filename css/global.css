@@ -6,9 +6,7 @@ white #F4D6B4 */
 body{
     font-family: 'Oswald', sans-serif;
 }
-.text-darkgrey{
-    color: #262520;
-}
+
 .text-accent{
     color: #F4D6B4;
     text-decoration: none;
@@ -52,11 +50,17 @@ body{
 .bg-darkgray{
     background: #262520;
 }
+.text-darkgrey{
+    color: #262520;
+}
 .text-darkgrey a{
     color: #262520;
     text-decoration: none;
 }
 .text-darkgrey a:hover{
-    color: #262520;
+    color: #D97941;
     text-decoration: none;
+}
+.bg-accent{
+    background-color: #F4D6B4;
 }
