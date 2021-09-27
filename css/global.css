@@ -6,7 +6,9 @@ white #F4D6B4 */
 body{
     font-family: 'Oswald', sans-serif;
 }
-
+.text-black{
+    color: #0D0C0A
+}
 .text-accent{
     color: #F4D6B4;
     text-decoration: none;
