@@ -31,7 +31,7 @@ body{
 }
 
 .ps-gray{
-    background-color: #E5E5E5;
+    background-color: #262520;
 
     width: 100%;
 }
@@ -48,4 +48,15 @@ body{
 .event:hover {
     -webkit-transform:scale(1.5); /* or some other value */
     transform:scale(1.5);
+}
+.bg-darkgray{
+    background: #262520;
+}
+.text-darkgrey a{
+    color: #262520;
+    text-decoration: none;
+}
+.text-darkgrey a:hover{
+    color: #262520;
+    text-decoration: none;
 }
